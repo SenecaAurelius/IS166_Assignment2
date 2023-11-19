@@ -1,6 +1,6 @@
 package org.example;
 
-public class CompleteTheCodeExercise {
+public class RemoveRepeatedWords {
     public static void main(String[] args) {
 
         String inputString1 = "the the cat"; // "the cat"
