@@ -23,6 +23,7 @@ public class Q3 {
 
     public void fun(int p, double q){
         q = a / p;
-        System.out.println(a + p - q);
+        System.out.println(a + p - q); // The first sample code shows a minus, the second sample code in a question shows a plus.
+
     }
 }
